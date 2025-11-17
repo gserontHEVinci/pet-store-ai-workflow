@@ -1,4 +1,4 @@
-# agent.md — Règles IA (Copilot Agent / autres)
+# AGENTS.md — Règles IA (Copilot Agent / autres)
 
 ## Objectif
 Aider à implémenter des endpoints PetStore (partiels) en respectant la spec et les tests.
